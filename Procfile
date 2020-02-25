@@ -1,1 +1,1 @@
-web: gunicorn adventureBUDDY.wsgi --log-file -
+web: gunicorn adventure_buddy.wsgi --log-file -
